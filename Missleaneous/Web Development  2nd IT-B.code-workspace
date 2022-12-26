@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../Web Development  2nd IT-B"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
